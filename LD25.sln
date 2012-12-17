@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LD25", "LD25\LD25\LD25.csproj", "{5B415D09-C3E9-444B-87DD-3F7F560A99EA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LD25Content", "LD25\LD25Content\LD25Content.contentproj", "{3367FE51-058E-4B88-B16F-102B0C0F20B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B415D09-C3E9-444B-87DD-3F7F560A99EA}.Debug|x86.ActiveCfg = Debug|x86
+		{5B415D09-C3E9-444B-87DD-3F7F560A99EA}.Debug|x86.Build.0 = Debug|x86
+		{5B415D09-C3E9-444B-87DD-3F7F560A99EA}.Release|x86.ActiveCfg = Release|x86
+		{5B415D09-C3E9-444B-87DD-3F7F560A99EA}.Release|x86.Build.0 = Release|x86
+		{3367FE51-058E-4B88-B16F-102B0C0F20B8}.Debug|x86.ActiveCfg = Debug|x86
+		{3367FE51-058E-4B88-B16F-102B0C0F20B8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
